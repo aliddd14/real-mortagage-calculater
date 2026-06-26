@@ -1,0 +1,6 @@
+{
+  "name": "Mortgage Calculator",
+  "description": "An advanced mortgage calculator featuring full amortization schedules, extra payments support, dynamic interactive charts, CSV/PDF export, and structured SEO.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
